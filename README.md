@@ -1,2 +1,6 @@
 # handbook-geometric-integrators
-Accompanying source code for accompanying source code for the handbook article "Solving ODEs for Nonlinear Dynamics with Symplectic and Geometric Integration" within "Handbook on Nonlinear Dynamics. Volume 2 Numerical Methods", World Scientific, editor: Vincent Acary
+Accompanying source code<br />
+handbook article "<i>Solving ODEs for Nonlinear Dynamics with Symplectic and Geometric Integration</i><br />
+<i>Handbook on Nonlinear Dynamics. Volume 2 Numerical Methods</i>, World Scientific<br />
+<br />
+Please refer to the Jupyter Notebook files for numerical experiments related to the sections of the article.
